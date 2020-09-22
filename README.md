@@ -8,6 +8,8 @@ The Conviva JavaScript PlayStation WebMAF module is built on top of <a href="htt
 <script type="text/javascript" src="<PATH>/conviva-core-sdk.js"></script>
 <script type="text/javascript" src="<PATH>/conviva-webmaf-module.js"></script>
 ```
+## Supported Framework Versions
+2.4.0
 
 ## Note:
 * Refer https://community.conviva.com/ for integration guidelines.
