@@ -1,0 +1,29 @@
+{
+  "name": "@convivainc/conviva-js-playstation-webmaf",
+  "version": "4.0.2",
+  "description": "Conviva PlayStation WebMAF module",
+  "main": "conviva-webmaf-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-playstation-webmaf.git"
+  },
+  "keywords": [
+    "Conviva",
+    "module",
+    "webmaf",
+    "playstation",
+    "video"
+  ],
+  "author": "Conviva Inc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-playstation-webmaf/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-playstation-webmaf#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
+}
