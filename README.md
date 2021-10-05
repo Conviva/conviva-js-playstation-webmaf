@@ -7,6 +7,12 @@ Conviva PlayStation WebMAF module auto-detects events emitted by Video player.
 npm install @convivainc/conviva-js-playstation-webmaf --save
 ```
 
+## Install via yarn 
+
+```
+yarn add @convivainc/conviva-js-playstation-webmaf
+```
+
 ## Supported Framework Versions
 2.4.0
 
