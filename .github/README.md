@@ -14,6 +14,12 @@ The Conviva JavaScript PlayStation WebMAF module is built on top of <a href="htt
 ```
 npm install @convivainc/conviva-js-playstation-webmaf --save
 ```
+  
+## Install via yarn
+
+```
+yarn add @convivainc/conviva-js-playstation-webmaf
+```
 
 ## Supported Framework Versions
 2.4.0
