@@ -1,6 +1,6 @@
 {
   "name": "@convivainc/conviva-js-playstation-webmaf",
-  "version": "4.0.2",
+  "version": "4.0.5",
   "description": "Conviva PlayStation WebMAF module",
   "main": "conviva-webmaf-module.js",
   "scripts": {
