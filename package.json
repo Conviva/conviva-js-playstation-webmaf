@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/Conviva/conviva-js-playstation-webmaf#readme",
   "dependencies": {
-    "@convivainc/conviva-js-coresdk": "^4.4.3"
+    "@convivainc/conviva-js-coresdk": "^4.5.4"
   }
 }
